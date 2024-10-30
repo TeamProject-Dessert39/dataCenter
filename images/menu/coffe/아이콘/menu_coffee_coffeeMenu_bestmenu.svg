@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 91.3 109.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_무제_그라디언트_3);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 4px;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-3, .cls-5 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: url(#_무제_그라디언트);
+      }
+
+      .cls-5 {
+        stroke-width: 4.9px;
+      }
+    </style>
+    <linearGradient id="_무제_그라디언트" data-name="무제 그라디언트" x1="24.3" y1="38.7" x2="67" y2="38.7" gradientTransform="translate(0 112) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".5" stop-color="#ce7600" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ce7600"/>
+    </linearGradient>
+    <linearGradient id="_무제_그라디언트_3" data-name="무제 그라디언트 3" x1="45.7" y1="28.8" x2="45.7" y2="51.5" gradientTransform="translate(0 112) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe82a"/>
+      <stop offset=".6" stop-color="#ffe82a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path class="cls-2" d="M27.9,89c.2,3.2,2.9,5.7,6.1,5.7h23.3c3.2,0,5.9-2.5,6.1-5.7l3.6-37.1H24.3l3.6,37.1Z"/>
+    <g id="milkshake--milkshake-drink-takeaway-cup-cold-beverage">
+      <path id="Vector_2077" data-name="Vector 2077" class="cls-3" d="M67,51.9l-3.6,37.1c-.2,3.2-2.9,5.7-6.1,5.7h-23.3c-3.2,0-5.9-2.5-6.1-5.7l-3.6-37.1h42.7Z"/>
+      <path id="Vector_2080" data-name="Vector 2080" class="cls-3" d="M18.2,51.9h54.9"/>
+      <path id="Vector" class="cls-3" d="M56.2,30.2l4.8-15"/>
+      <path class="cls-5" d="M24.4,51.9h42.5s.2-11.5-9.4-12c0,0-1.2-17.2-11.8-16.3,0,0-.4,9.6-6.2,12-6.2,2.7-14.8,1.8-15.1,16.3Z"/>
+    </g>
+  </g>
+  <path class="cls-1" d="M46.9,61.2l2.6,5.3c.2.4.6.7,1,.7l5.9.9c1.1.2,1.5,1.5.7,2.3l-4.2,4.1c-.3.3-.5.8-.4,1.2l1,5.8c.2,1.1-1,1.9-2,1.4l-5.2-2.8c-.4-.2-.9-.2-1.3,0l-5.2,2.9c-1,.5-2.1-.3-2-1.4l1-5.8c0-.4,0-.9-.4-1.2l-4.2-4.1c-.8-.8-.4-2.1.7-2.3l5.9-.9c.4-.1.8-.3,1-.7l2.6-5.3c.6-1.1,2-1.1,2.5,0Z"/>
+  <path class="cls-4" d="M46.9,61.2l2.6,5.3c.2.4.6.7,1,.7l5.9.9c1.1.2,1.5,1.5.7,2.3l-4.2,4.1c-.3.3-.5.8-.4,1.2l1,5.8c.2,1.1-1,1.9-2,1.4l-5.2-2.8c-.4-.2-.9-.2-1.3,0l-5.2,2.9c-1,.5-2.1-.3-2-1.4l1-5.8c0-.4,0-.9-.4-1.2l-4.2-4.1c-.8-.8-.4-2.1.7-2.3l5.9-.9c.4-.1.8-.3,1-.7l2.6-5.3c.6-1.1,2-1.1,2.5,0Z"/>
+</svg>
